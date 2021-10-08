@@ -592,3 +592,6 @@ The OSI model outlines the standard for communications in general, whether wired
 
 ## 3. Assume Role Policy and Role Policy
 Assume role grants the principal declared in the role temporary security keys to access AWS resources. The role policy defines the permissions granted to the user or role the policy is attached to.
+
+## Diagram
+![](imgs/final.png)
