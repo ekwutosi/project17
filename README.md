@@ -4,5 +4,5 @@ Using terraform as an IaC tool to create infrastructure on AWS
 Automate AWS Infrastructure With IAC using Terraform 
 
 ## Architectural Diagram 
-![](imgs/final.png)
+![](imgs/architecture-diagram.png)
 
